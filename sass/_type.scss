@@ -1,0 +1,23 @@
+body {
+    font-family: var(--font_serif);
+    font-size: 1rem;
+}
+h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+h1, h2, h3 {
+    font-family: var(--font_sans);
+    color: var(--color_offBlack);
+    text-align: center;
+}
+p {
+    font-family: var(--font_sans);
+    color: var(--color_offBlack);
+    font-weight: lighter;
+    text-align: center;
+    padding-left: 1px;
+    padding-right: 1px;
+}

@@ -1,0 +1,16 @@
+{
+  "name": "imd_318_lab5",
+  "version": "1.0.0",
+  "description": "Class 5 NPM Demo",
+  "main": "index.html",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Jace Caione",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.6.1",
+    "grunt-contrib-sass": "^2.0.0",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}

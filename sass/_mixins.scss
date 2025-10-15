@@ -1,0 +1,12 @@
+@mixin button {
+    background-color: var(--color_waffleButton);
+    color: #5e4433;
+    padding: 0.5em;
+    border-radius: 100px;
+    transition: all 150ms;
+    text-decoration: none;
+    font-family: var(--font_sans);
+    &:hover {
+        background-color: var(--color_dark_waffleButton);
+    }
+}
