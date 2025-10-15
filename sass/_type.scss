@@ -3,12 +3,14 @@ body {
     font-size: 1rem;
 }
 h1 {
+    font-family: var(--font_sans);
+    color: var(--color_offBlack);
     font-size: 3rem;
     font-weight: bold;
     margin-top: 3px;
     margin-bottom: 3px;
 }
-h1, h2, h3 {
+h2 {
     font-family: var(--font_sans);
     color: var(--color_offBlack);
     text-align: center;
